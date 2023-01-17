@@ -13,7 +13,7 @@ export default function Home() {
           Having development background, with a year of experience in designing,
           developing and maintaining web projects using different tools and
           technologies. <br></br> <br></br>
-          Expertise:<br></br><br></br><br></br>
+          {/* Expertise:<br></br><br></br><br></br>
           - HTML, CSS, JavaScript, Java, ReactJS, AngularJS, NodeJS, <br></br><br></br>
           - Web services (Restful APIs) <br></br><br></br>
           - SQL Server2000/2005, MySQL Database Knowledge About: - MERN/MEAN Stack Core<br></br><br></br>
@@ -25,12 +25,12 @@ export default function Home() {
           and multiple assignments.<br></br><br></br>
           - Analysis and Reporting.<br></br><br></br>
           - Problem Solving and Decision Making Love the web and developing for it as well as
-          breaking its conventions.
+          breaking its conventions. */}
         </p>
-        {/* <p>
+        <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p> */}
+        </p>
       </section>
     </Layout>
   );
